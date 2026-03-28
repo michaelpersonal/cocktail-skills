@@ -1,5 +1,5 @@
 {
-  "name": "cocktail-skills",
+  "name": "cocktail-codex",
   "owner": {
     "name": "Michael Guo"
   },
@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "cocktail-skills",
+      "name": "cocktail-codex",
       "source": "./",
       "description": "Claude Code skills based on the six-root cocktail framework from Cocktail Codex. Classify, build, substitute, personalize, invent, diagnose, and recommend cocktails."
     }

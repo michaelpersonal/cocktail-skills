@@ -10,7 +10,7 @@ In Claude Code:
 
 ```
 /plugin marketplace add michaelpersonal/cocktail-skills
-/plugin install cocktail-skills
+/plugin install cocktail-codex
 ```
 
 <details>
@@ -24,7 +24,7 @@ Then in Claude Code:
 
 ```
 /plugin marketplace add ~/.claude/plugins/cocktail-skills
-/plugin install cocktail-skills
+/plugin install cocktail-codex
 ```
 
 </details>
