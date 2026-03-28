@@ -1,10 +1,10 @@
 {
-  "name": "cocktail-codex",
+  "name": "cocktail-skills",
   "description": "Claude Code skills based on the six-root cocktail framework from Cocktail Codex by Alex Day, Nick Fauchald, and David Kaplan (Death & Co). Classify, build, substitute, personalize, invent, diagnose, and recommend cocktails.",
   "version": "1.0.0",
   "author": {
     "name": "Michael Guo"
   },
-  "repository": "https://github.com/michaelpersonal/cocktail-codex-skills",
+  "repository": "https://github.com/michaelpersonal/cocktail-skills",
   "license": "MIT"
 }

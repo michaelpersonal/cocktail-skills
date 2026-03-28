@@ -9,22 +9,22 @@ Claude Code skills based on the six-root cocktail framework from [Cocktail Codex
 In Claude Code:
 
 ```
-/plugin marketplace add michaelpersonal/cocktail-codex-skills
-/plugin install cocktail-codex
+/plugin marketplace add michaelpersonal/cocktail-skills
+/plugin install cocktail-skills
 ```
 
 <details>
 <summary>Alternative: install from a local clone</summary>
 
 ```bash
-git clone https://github.com/michaelpersonal/cocktail-codex-skills.git ~/.claude/plugins/cocktail-codex-skills
+git clone https://github.com/michaelpersonal/cocktail-skills.git ~/.claude/plugins/cocktail-skills
 ```
 
 Then in Claude Code:
 
 ```
-/plugin marketplace add ~/.claude/plugins/cocktail-codex-skills
-/plugin install cocktail-codex
+/plugin marketplace add ~/.claude/plugins/cocktail-skills
+/plugin install cocktail-skills
 ```
 
 </details>
